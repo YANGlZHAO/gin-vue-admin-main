@@ -47,6 +47,7 @@
   "/src/view/superAdmin/dictionary/sysDictionary.vue": "SysDictionary",
   "/src/view/superAdmin/dictionary/sysDictionaryDetail.vue": "SysDictionaryDetail",
   "/src/view/superAdmin/index.vue": "SuperAdmin",
+  "/src/view/superAdmin/logs/index.vue": "LogPage",
   "/src/view/superAdmin/menu/components/components-cascader.vue": "ComponentsCascader",
   "/src/view/superAdmin/menu/icon.vue": "Icon",
   "/src/view/superAdmin/menu/menu.vue": "Menus",

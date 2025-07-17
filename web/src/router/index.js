@@ -31,6 +31,15 @@ const routes = [
     },
     component: () => import('@/view/error/index.vue')
   },
+  {
+    path: '/superAdmin/logs',
+    name: 'LogPage',
+    meta: {
+      title: '日志管理',
+      keepAlive: true
+    },
+    component: () => import('@/view/superAdmin/logs/index.vue')
+  },
 ]
 
 const router = createRouter({

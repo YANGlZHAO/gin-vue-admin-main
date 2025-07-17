@@ -1,16 +1,7 @@
 {
   "folders": [
     {
-      "path": "server",
-      "name": "backend"
-    },
-    {
-      "path": "web",
-      "name": "frontend"
-    },
-    {
-      "path": ".",
-      "name": "root"
+      "path": "."
     }
   ],
   "settings": {
